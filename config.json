@@ -1,0 +1,5 @@
+{
+	"TOKEN": "Put your bot's token here- also NEVER share this!",
+	"RESPOND_ON_MEMBER_VOICE_STATE": false,
+	"JOIN_AUTOMATICALLY": false
+}
